@@ -1,0 +1,12 @@
+{
+  "mcpServers": {
+    "ibah": {
+      "command": "bun",
+      "args": ["run", "/home/ticky74/Dev/kode4/ibah-archaeologist-series/packages/ibah-mcp/src/index.ts"],
+      "env": {
+        "IBAH_SERVER_URL": "http://localhost:3100",
+        "IBAH_API_KEY": "dev-local-key"
+      }
+    }
+  }
+}
